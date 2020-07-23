@@ -1,0 +1,3 @@
+include ':Custom_Library_Practice'
+include ':app'
+rootProject.name = "Custom_View_Practice"
